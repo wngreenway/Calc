@@ -16,6 +16,7 @@
 
 @property (readonly) id program;
 
+// Extra public methods
 + (double)runProgram:(id)program;
 + (NSString *)descriptionOfProgram:(id)program;
 
